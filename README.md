@@ -1,4 +1,4 @@
-I apologize for the confusion. It looks like there was a mistake in the Markdown link. Let's correct it:
+Certainly! Here's an updated version of the README.md file with the corrected link and added emojis:
 
 ```markdown
 # Dart To-Do List 📝
@@ -50,17 +50,6 @@ A simple command-line to-do list application written in Dart.
    ```
 
 ## Demo Video 🎥
-[![Demo Video](https://github.com/AnmarSammour/todo_list/blob/main/assets/demo_thumbnail.png)](https://github.com/AnmarSammour/todo_list/raw/main/assets/demo_video.mp4)
+[Demo Video](https://github.com/AnmarSammour/todo_list/assets/112755848/8db0f48f-756d-472b-9c1d-39806d75c309)
 
 Watch the demo video to see how the to-do list application works.
-
-## Contributing 🤝
-
-If you would like to contribute to the project, feel free to submit a pull request. Bug reports and feature requests are also welcome.
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace the demo_thumbnail.png and demo_video.mp4 links with your actual demo thumbnail image and video file links. This should now correctly display the video in the README.md file.
