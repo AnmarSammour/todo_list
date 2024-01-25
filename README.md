@@ -1,6 +1,6 @@
 # Dart To-Do List
 
-A simple command-line to-do list application written in Dart using Object-Oriented Programming (OOP) principles.
+A simple command-line to-do list application written in Dart
 
 ## Features
 
@@ -47,7 +47,6 @@ A simple command-line to-do list application written in Dart using Object-Orient
    ```
 
 ## Demo Video
-
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://github.com/AnmarSammour/todo_list/assets/112755848/9a7e96dc-e92a-4faa-9292-02afc896c974)
 
 Watch the demo video to see how the to-do list application works.
