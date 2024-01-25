@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the README.md file with the corrected link and added emojis:
-
-```markdown
 # Dart To-Do List 📝
 
 A simple command-line to-do list application written in Dart.
