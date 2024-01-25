@@ -1,6 +1,6 @@
 # Dart To-Do List 📝
 
-A simple command-line to-do list application written in Dart.
+A simple command-line to-do list application written in Dart using Object-Oriented Programming (OOP) principles.
 
 ## Features
 
